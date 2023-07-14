@@ -13,25 +13,8 @@ Tableau
 ### Data Preparation
 To streamline the analysis process, the four divided files of the "appleStore_description.csv" will be merged together in SQL using the UNION ALL command, as the initial step before conducting further analysis.
 
-CREATE TABLE appleStore_description_combined AS
-
-SELECT * FROM appleStore_description1
-
-UNION ALL
-
-SELECT * FROM appleStore_description2
-
-UNION ALL
-
-SELECT * FROM appleStore_description3
-
-UNION ALL
-
-SELECT * FROM appleStore_description4
-
-
 ### Exploratory Data Analysis
-I started out this analysis by checking for the number of unique apps in the dataset to ensure 
+I started out this analysis by checking for the number of unique apps in the dataset to ensure there is a uniform number of application in both datasets
 
 
 

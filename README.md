@@ -1,4 +1,4 @@
-# Data-analysis-for-optimizing-app-popularity-pricing-and-ratings
+# Data Analysis For Optimizing App Popularity, Pricing and Ratings
 
 Introduction
 

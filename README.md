@@ -8,6 +8,7 @@ The dataset utilized in this case study, was provided by Kaggle user RAMANATHAN.
 
 ### Tools Used
 SQL
+
 Tableau
 
 ### Data Preparation

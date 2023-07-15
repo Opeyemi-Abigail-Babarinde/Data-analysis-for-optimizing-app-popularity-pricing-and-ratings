@@ -15,18 +15,38 @@ Google Sheets
 To streamline the analysis process, the four divided files of the "appleStore_description.csv" will be merged together in SQL using the UNION ALL command, as the initial step before conducting further analysis.
 
 ### Exploratory Data Analysis
-In the exploratory data analysis phase several key steps were undertaken to gain insights from the dataset. Firstly, the number of unique apps in the dataset was examined to ensure consistency and avoid duplication between datasets.This step ensured that each application was represented only once for accurate analysis. Secondly, the presence of missing values in crucial fields within the AppleStore dataset was checked. By identifying and addressing any missing data, the integrity of subsequent analyses was preserved. Additionally, an assessment was made to determine the number of apps per genre, providing an overview of the distribution of applications across different categories. 
+In the exploratory data analysis phase several key steps were undertaken to gain insights from the dataset. Firstly, the number of unique apps in the dataset was examined to ensure consistency and avoid duplication between datasets.This step ensured that each application was represented only once for accurate analysis. Secondly, the presence of missing values in crucial fields within the AppleStore dataset was checked. By identifying and addressing any missing data, the integrity of subsequent analyses was preserved. Additionally, an assessment was made to determine the number of apps per genre, providing an overview of the distribution of applications across different categories. This analysis shed light on the popularity and diversity of genres within the dataset.
 
 ![NUMBER OF APPLICATION PER GENRE](https://github.com/Opeyemi-Abigail-Babarinde/Data-analysis-for-optimizing-app-popularity-pricing-and-ratings/assets/139285554/e750271f-4a25-41c6-bb6e-f80a9aad2cc7)
 
-This analysis shed light on the popularity and diversity of genres within the dataset. Finally, an overview of the app ratings was conducted. 
+Finally, an overview of the app ratings was conducted. 
 
 ![OVERVIEW OF APP RATING](https://github.com/Opeyemi-Abigail-Babarinde/Data-analysis-for-optimizing-app-popularity-pricing-and-ratings/assets/139285554/f1f07409-7ee6-4d43-b53f-5b6777745e8f)
 
 This step allowed for an understanding of the overall rating distribution, enabling further investigation into factors contributing to high or low ratings. By systematically carrying out these exploratory data analysis steps, valuable insights were gained, setting the foundation for more in-depth analysis and informed decision-making.
 
 ### Data Analysis
-In the data analysis phase, several steps were undertaken to gain insights and explore relationships within the dataset. Firstly, a comparison was made to determine whether paid apps have higher ratings than free apps. This analysis aimed to uncover any potential correlation between app pricing and user ratings. Secondly, an examination was conducted to check if apps with support for more languages tend to have higher ratings. This step aimed to explore the relationship between language support and user satisfaction. Additionally, the genre with low ratings was identified to understand specific categories that may require improvement or further investigation. Furthermore, a correlation analysis was performed to determine if there is a relationship between the length of the app description and the user rating. This investigation aimed to assess the impact of app description length on user perception and engagement. Lastly, the top-rated apps for each genre were identified, providing valuable insights into the most highly regarded apps within different categories. By systematically carrying out these data analysis steps, meaningful patterns and associations were uncovered, enabling informed decision-making for app development and enhancement.
+In the data analysis phase, several steps were undertaken to gain insights and explore relationships within the dataset. Firstly, a comparison was made to determine whether paid apps have higher ratings than free apps. This analysis aimed to uncover any potential correlation between app pricing and user ratings.
+
+![COMPARING RATINGS_ PAID VS FREE ](https://github.com/Opeyemi-Abigail-Babarinde/Data-analysis-for-optimizing-app-popularity-pricing-and-ratings/assets/139285554/15e49e92-8549-4815-8518-63acda662827)
+
+Secondly, an examination was conducted to check if apps with support for more languages tend to have higher ratings. This step aimed to explore the relationship between language support and user satisfaction. 
+
+![INFLUENCE OF LANGAUGE QUANTITY ON RATING](https://github.com/Opeyemi-Abigail-Babarinde/Data-analysis-for-optimizing-app-popularity-pricing-and-ratings/assets/139285554/cd9c90ed-afc2-4933-a676-5963a081ac57)
+
+Additionally, the genre with low ratings was identified to understand specific categories that may require improvement or further investigation.
+
+![LOWEST RATED GENRES RATING](https://github.com/Opeyemi-Abigail-Babarinde/Data-analysis-for-optimizing-app-popularity-pricing-and-ratings/assets/139285554/765b1ab1-6df2-4e13-8d56-d639d7c9e920)
+
+Furthermore, a correlation analysis was performed to determine if there is a relationship between the length of the app description and the user rating. This investigation aimed to assess the impact of app description length on user perception and engagement. 
+
+![Relationship Between Description Length and Average Rating](https://github.com/Opeyemi-Abigail-Babarinde/Data-analysis-for-optimizing-app-popularity-pricing-and-ratings/assets/139285554/88895686-b546-4ccc-81b6-c7814f4dcbd7)
+
+Lastly, the top-rated apps for each genre were identified, providing valuable insights into the most highly regarded apps within different categories.
+
+![HIGHEST RATED APP OF EACH GENRE (1)](https://github.com/Opeyemi-Abigail-Babarinde/Data-analysis-for-optimizing-app-popularity-pricing-and-ratings/assets/139285554/41710d12-acd6-49c0-b4a8-1c89a273fbfc)
+
+By carrying out these data analysis steps, meaningful patterns and associations were uncovered, enabling informed decision-making for app development and enhancement.
 
 ### Recommendations
 Based on the data analysis conducted, the following recommendations can be made:

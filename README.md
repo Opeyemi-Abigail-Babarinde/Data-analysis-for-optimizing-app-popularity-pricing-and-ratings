@@ -9,7 +9,7 @@ The dataset utilized in this case study, was provided by Kaggle user RAMANATHAN.
 ### Tools Used
 SQL
 
-Tableau
+Excel
 
 ### Data Preparation
 To streamline the analysis process, the four divided files of the "appleStore_description.csv" will be merged together in SQL using the UNION ALL command, as the initial step before conducting further analysis.

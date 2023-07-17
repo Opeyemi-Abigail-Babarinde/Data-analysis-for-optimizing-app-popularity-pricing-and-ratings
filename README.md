@@ -44,7 +44,7 @@ Furthermore, a correlation analysis was performed to determine if there is a rel
 
 Lastly, the top-rated apps for each genre were identified, providing valuable insights into the most highly regarded apps within different categories.
 
-![HIGHEST RATED APP OF EACH GENRE](https://github.com/Opeyemi-Abigail-Babarinde/Data-analysis-for-optimizing-app-popularity-pricing-and-ratings/assets/139285554/9ffa1b88-5e22-4afb-9cdd-c3debc781ca1)
+![HIGHEST RATED APP OF EACH GENRE (2)](https://github.com/Opeyemi-Abigail-Babarinde/Data-analysis-for-optimizing-app-popularity-pricing-and-ratings/assets/139285554/9067e635-7ad4-4942-8d58-e7883c4aa18d)
 
 By carrying out these data analysis steps, meaningful patterns and associations were uncovered, enabling informed decision-making for app development and enhancement.
 

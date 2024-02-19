@@ -17,34 +17,35 @@ To streamline the analysis process, the four divided files of the "appleStore_de
 ### Exploratory Data Analysis
 In the exploratory data analysis phase several key steps were undertaken to gain insights from the dataset. Firstly, the number of unique apps in the dataset was examined to ensure consistency and avoid duplication between datasets.This step ensured that each application was represented only once for accurate analysis. Secondly, the presence of missing values in crucial fields within the AppleStore dataset was checked. By identifying and addressing any missing data, the integrity of subsequent analyses was preserved. Additionally, an assessment was made to determine the number of apps per genre, providing an overview of the distribution of applications across different categories. This analysis shed light on the popularity and diversity of genres within the dataset.
 
-![NUMBER OF APPLICATION PER GENRE](https://github.com/Opeyemi-Abigail-Babarinde/Data-analysis-for-optimizing-app-popularity-pricing-and-ratings/assets/139285554/57684bd3-a461-469a-b7d6-51b635a375ab)
+![NUMBER OF APPLICATION PER GENRE (1)](https://github.com/Opeyemi-Abigail-Babarinde/Data-analysis-for-optimizing-app-popularity-pricing-and-ratings/assets/139285554/0f469cb0-e6c0-4a47-97bc-e85760f0cda4)
+
 
 Finally, an overview of the app ratings was conducted. 
 
-![OVERVIEW OF APP RATING](https://github.com/Opeyemi-Abigail-Babarinde/Data-analysis-for-optimizing-app-popularity-pricing-and-ratings/assets/139285554/3d7cac97-51d5-41af-928f-402dc63638c6)
+![OVERVIEW OF APP RATING (1)](https://github.com/Opeyemi-Abigail-Babarinde/Data-analysis-for-optimizing-app-popularity-pricing-and-ratings/assets/139285554/59727c85-2673-4aa4-8f1f-0ec36b94ea67)
 
 This step allowed for an understanding of the overall rating distribution, enabling further investigation into factors contributing to high or low ratings. By systematically carrying out these exploratory data analysis steps, valuable insights were gained, setting the foundation for more in-depth analysis and informed decision-making.
 
 ### Data Analysis
 In the data analysis phase, several steps were undertaken to gain insights and explore relationships within the dataset. Firstly, a comparison was made to determine whether paid apps have higher ratings than free apps. This analysis aimed to uncover any potential correlation between app pricing and user ratings.
 
-![COMPARING RATINGS_ PAID VS FREE ](https://github.com/Opeyemi-Abigail-Babarinde/Data-analysis-for-optimizing-app-popularity-pricing-and-ratings/assets/139285554/32e8eacc-d70b-4e59-bd14-2ca0f76af397)
+![COMPARING RATINGS_ PAID VS FREE  (1)](https://github.com/Opeyemi-Abigail-Babarinde/Data-analysis-for-optimizing-app-popularity-pricing-and-ratings/assets/139285554/6e71f535-8956-432e-8baa-afd412413e8d)
 
 Secondly, an examination was conducted to check if apps with support for more languages tend to have higher ratings. This step aimed to explore the relationship between language support and user satisfaction. 
 
-![INFLUENCE OF LANGAUGE QUANTITY ON RATING](https://github.com/Opeyemi-Abigail-Babarinde/Data-analysis-for-optimizing-app-popularity-pricing-and-ratings/assets/139285554/149fd025-8a17-4f93-9343-fe41d7db709c)
+![INFLUENCE OF LANGAUGE QUANTITY ON RATING (1)](https://github.com/Opeyemi-Abigail-Babarinde/Data-analysis-for-optimizing-app-popularity-pricing-and-ratings/assets/139285554/044369c2-8526-4c74-8ca0-176c70d873fb)
 
 Additionally, the genre with low ratings was identified to understand specific categories that may require improvement or further investigation.
 
-![LOWEST RATED GENRES RATING](https://github.com/Opeyemi-Abigail-Babarinde/Data-analysis-for-optimizing-app-popularity-pricing-and-ratings/assets/139285554/6e211b4e-da2e-40ef-8d3d-65b7b77d13ab)
+![LOWEST RATED GENRES RATING (1)](https://github.com/Opeyemi-Abigail-Babarinde/Data-analysis-for-optimizing-app-popularity-pricing-and-ratings/assets/139285554/286db8a7-eaf0-4200-bf1d-dcb2944f8b01)
 
 Furthermore, a correlation analysis was performed to determine if there is a relationship between the length of the app description and the user rating. This investigation aimed to assess the impact of app description length on user perception and engagement. 
 
-![RELATIONSHIP BETWEEN DESCRIPTION LENGTH AND RATING](https://github.com/Opeyemi-Abigail-Babarinde/Data-analysis-for-optimizing-app-popularity-pricing-and-ratings/assets/139285554/edff4524-b0b3-4fad-b6d2-9f7617b4129e)
+![RELATIONSHIP BETWEEN DESCRIPTION LENGTH AND RATING (1)](https://github.com/Opeyemi-Abigail-Babarinde/Data-analysis-for-optimizing-app-popularity-pricing-and-ratings/assets/139285554/fce23f0e-3de9-450a-b301-6c3091be8009)
 
 Lastly, the top-rated apps for each genre were identified, providing valuable insights into the most highly regarded apps within different categories.
 
-![HIGHEST RATED APP OF EACH GENRE (2)](https://github.com/Opeyemi-Abigail-Babarinde/Data-analysis-for-optimizing-app-popularity-pricing-and-ratings/assets/139285554/9067e635-7ad4-4942-8d58-e7883c4aa18d)
+![HIGHEST RATED APP OF EACH GENRE (3)](https://github.com/Opeyemi-Abigail-Babarinde/Data-analysis-for-optimizing-app-popularity-pricing-and-ratings/assets/139285554/36061dec-a7ce-44e4-867e-9b96b7216c43)
 
 By carrying out these data analysis steps, meaningful patterns and associations were uncovered, enabling informed decision-making for app development and enhancement.
 
